@@ -15,6 +15,4 @@
     }while($bool=false && strlen($word)-1==$i);
   }
 
-  heterograma();
-
 ?>
